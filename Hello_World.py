@@ -1,2 +1,2 @@
 print("Hello world")
-print("New_rating")
+print("My new rating")
